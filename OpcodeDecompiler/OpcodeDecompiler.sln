@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpcodeDecompiler", "OpcodeDecompiler\OpcodeDecompiler.csproj", "{A8856B82-8817-4D66-A052-2FB64085419E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8856B82-8817-4D66-A052-2FB64085419E}.Debug|x86.ActiveCfg = Debug|x86
+		{A8856B82-8817-4D66-A052-2FB64085419E}.Debug|x86.Build.0 = Debug|x86
+		{A8856B82-8817-4D66-A052-2FB64085419E}.Release|x86.ActiveCfg = Release|x86
+		{A8856B82-8817-4D66-A052-2FB64085419E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
