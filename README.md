@@ -14,7 +14,7 @@ Notes:
   They're unique in the player. This is good for int 0x87 attacks.
 - We recommend having Notepad++. The app will open the decompiled file automatically when it is installed.
   and generally...It is a great tool for the development of a player. Get it here: http://notepad-plus-plus.org/
-  We used it as a text editor for the developemnt of Zorg.
+  We used it as a text editor for the development of Zorg.
 
 Best regards & Good luck!
 
