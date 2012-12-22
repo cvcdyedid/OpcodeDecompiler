@@ -12,6 +12,9 @@ Notes:
 - You need to have NASM at the right place.
 - At the end of the decompiled file there'll be a list of bytes and their locations. These bytes are "special" bytes.
   They're unique in the player. This is good for int 0x87 attacks.
+- We recommend having Notepad++. The app will open the decompiled file automatically when it is installed.
+  and generally...It is a great tool for the development of a player. Get it here: http://notepad-plus-plus.org/
+  We used it as a text editor for the developemnt of Zorg.
 
 Best regards & Good luck!
 
